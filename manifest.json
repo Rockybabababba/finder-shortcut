@@ -1,0 +1,13 @@
+{
+  "name": "Finder",
+  "short_name": "Finder",
+  "start_url": "https://www.google.com",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
